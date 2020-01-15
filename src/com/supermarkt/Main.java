@@ -11,7 +11,7 @@ public class Main {
 
             //initialisatie
             ShoppingCart faisalsWinkelwagen = customer.winkelwagen;
-            Basket faisalsMandje = customer.mandje;
+
 
 
 
